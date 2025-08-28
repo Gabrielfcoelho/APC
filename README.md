@@ -1,2 +1,2 @@
-# Algoritmos-e-Programa-o-de-Computadores
-Meus primeiros códigos em C
+# Algoritmos e Programação de Computadores (APC)
+Repositório dedicado a disciplina de APC 2023.1 UNB/FCTE.
